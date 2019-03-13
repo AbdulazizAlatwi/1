@@ -1,4 +1,4 @@
-﻿# GENERADOR-NEW-ULTIMATE-ORIGINAL
+﻿# 1
 
 Generador De Key
 
@@ -8,7 +8,7 @@ Generador De Key
 
 3 • ESTE SCRIPT INSTALARA EL GENERADOR Y SCRIPT NEW-ULTIMATE CON TODOS SUS ARCHIVOS ORIGINALES Y SIN MODIFICAR
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/instgerador.sh; chmod 777 instgerador.sh* && ./instgerador.sh
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AbdulazizAlatwi/1/master/instgerador.sh; chmod 777 instgerador.sh* && ./instgerador.sh
 
 =======================================================================
 
@@ -18,7 +18,7 @@ apt-get update -y; apt-get upgrade -y; wget https://www.dropbox.com/s/s4k7ovuimv
 
 INSTALADOR ALTERNATIVO
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/instalar.sh; chmod 777 instalar.sh* && ./instalar.sh*
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AbdulazizAlatwi/1/master/instalar.sh; chmod 777 instalar.sh* && ./instalar.sh*
 
 ==================================================================================
 
